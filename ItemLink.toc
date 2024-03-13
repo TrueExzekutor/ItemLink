@@ -3,5 +3,5 @@
 ## Author: Exzekutor
 ## Version: 1.0
 ## Notes: Вывод итемлинка по id или названию
-## X-Sirus-Update https://github.com/TrueExzekutor/ItemLink/main
+## X-Sirus-Update https://github.com/TrueExzekutor/ItemLink/tree/main
 ItemLink.lua
